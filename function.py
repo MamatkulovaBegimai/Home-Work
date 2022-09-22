@@ -57,5 +57,5 @@ def upp(word):
     res = "".join(new_lst)
     print(res)    
     
-    
+        
     
